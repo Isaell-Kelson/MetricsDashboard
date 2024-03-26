@@ -44,7 +44,7 @@ A aplicação estará disponível em `http://localhost:8080`.
 
 ## Utilização
 
-Após iniciar a aplicação, acesse-a através do navegador e você será direcionado para a página de upload de planilhas. Faça o upload de uma planilha no formato .xlsx ou .csv e aguarde o processamento dos dados. Após o processamento, a aplicação exibirá os gráficos interativos das métricas calculadas.
+Após iniciar a aplicação, acesse-a através do navegador e você será direcionado para a página de upload de planilhas. Faça o upload da planilha que está na pasta UPLOAD e aguarde o processamento dos dados. Após o processamento, a aplicação exibirá os gráficos interativos das métricas calculadas.
 
 ## Tecnologias Utilizadas
 
